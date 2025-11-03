@@ -12,8 +12,7 @@
 
 ## 🧠 Introduction
 
-This repository contains a **comprehensive, from-scratch implementation of a Large Language Model (LLM)** — inspired by the *“Build LLM from Scratch”* YouTube playlist by [Vizuaral](https://www.youtube.com/@Vizuaral).
-
+This repository contains a **comprehensive, from-scratch implementation of a Large Language Model (LLM)** 
 It’s designed to **demystify the inner workings** of modern transformer-based language models such as GPT, providing a hands-on learning experience for enthusiasts, students, and AI practitioners.
 
 The project demonstrates every major stage of an LLM’s lifecycle — **from data preprocessing and tokenization to model training, evaluation, and fine-tuning**.
