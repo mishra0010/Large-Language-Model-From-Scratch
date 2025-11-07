@@ -176,7 +176,8 @@ Your support motivates continued improvements and new features. ✨
 ## 🖼️ Visual Overview
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Transformer_model_architecture.png" width="600" alt="Transformer Architecture">
+  <img width="638" height="770" alt="image" src="https://github.com/user-attachments/assets/22fc142f-2995-4b4d-bb08-67564e4931f9" />
+
 </p>
 
 <p align="center">
