@@ -160,12 +160,6 @@ If you’d like to enhance the model, add features, or improve documentation:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 💡 Inspiration
 
 This work is inspired by the brilliant *“Build LLM from Scratch”* YouTube playlist by **Vizuaral**, and serves as both a learning resource and a playground for experimenting with LLMs.
