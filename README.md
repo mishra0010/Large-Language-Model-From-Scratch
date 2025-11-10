@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-red?logo=pytorch)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 ![Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
